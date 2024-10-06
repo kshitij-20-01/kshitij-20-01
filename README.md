@@ -1,9 +1,8 @@
-# Hello there! I am Parth and I love to create!
+# Hello there! I am Kshitij and I love to create!
 
 ## A little bit about me :
 
-I am an Undergraduate researcher that loves to make goofy projects. I'm really intrigued by AI/ML, Computer Vision, LLMs, GANs and robotics. Feel free to reach me out on discord - PS_Venom#6364
-
+I am an Undergraduate researcher that loves to indulge in Robots. I'm really intrigued by AI/ML, Computer Vision, LLMs, GANs and robotics. 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
